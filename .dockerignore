@@ -1,0 +1,6 @@
+#comment
+node_modules/
+.vscode/
+.gitignore
+.prettierrc.json
+.git/
